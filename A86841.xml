@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the well-affected Commons of England: presented to the two honourable houses of Parliament, for a speedy reformation, (which hath been long expected) both in church and state. Submissively supplicating that grand assembly; that they would be pleased to propound to, and advice with the grave and reverend synod concerning the premisses.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86841</idno><idno type="EEBO-CITATION">99860799</idno>
+  <idno type="VID">112924</idno>
+  <idno type="EEBO-PROQUEST">2240860336</idno>
+  
+            <idno type="STC">Wing H3582</idno>
+            <idno type="STC">Thomason E65_27</idno>
+            <idno type="STC">ESTC R1999</idno>
+            <idno type="PROQUEST">99860799</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860799e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112924)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E65[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the well-affected Commons of England: presented to the two honourable houses of Parliament, for a speedy reformation, (which hath been long expected) both in church and state. Submissively supplicating that grand assembly; that they would be pleased to propound to, and advice with the grave and reverend synod concerning the premisses.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112924:1"/>
+            <p>The Humble PETITION OF THE <hi>Well-affected Commons of</hi> England: PRESENTED To the two Honourable Houses of PARLIAMENT, for a speedy Reforma<g ref="char:EOLhyphen"/>tion, (which hath been long expected) both in CHURCH and STATE.</p>
+            <p>
+               <hi>Submissively Supplicating</hi> That Grand ASSEMBLY; That they would be pleased to Propound to, and Ad<g ref="char:EOLhyphen"/>vice with the Grave and Reverend SYNOD Concerning the Premisses.</p>
+            <p>Printed in the Yeer. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:112924:2"/>
+            <pb n="3" facs="tcp:112924:2"/>
+            <head>The humble Petition of the well-affected Commons, &amp;c.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>BEfore we presume to relate our great Greivances, our grievous Perplexities, our present Sorrowes, and personall Sufferings; Give us leave (we humbly beseech you) <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o commemorate to the world your grand cares for the publick good, your unwearied labours, your incessant paynes, your indefatigable industry, your late-sittings, and early risings, your unanimous consent, and determinate Resolution, not to desert the <hi>Cause,</hi> which you are resolved to maintaine with your Lives and Fortunes. And though these your valiant Deter<g ref="char:EOLhyphen"/>minations have animated the blood-thirsty Papists to combine and confederate themselves in a hostile man<g ref="char:EOLhyphen"/>ner, with a powerfull Army now in the very bowells of the Nation; yet neverthelesse, such is your undaun<g ref="char:EOLhyphen"/>ted <hi>Prowis,</hi> that ye have already prepared, and raised an Army of Horse and Foot to meet and oppose them in the open Field. The <hi>Romanists</hi> have been a long time Arch enemies to our Kingdome, and our Religion; from time to time they have beene the onely Incenda<g ref="char:EOLhyphen"/>ries and Contrivers of the miseries and distractions of this Land. They have recrwted their Forces by the as<g ref="char:EOLhyphen"/>sistance
+<pb n="4" facs="tcp:112924:3"/>of Forraign Nations, some of the Rebels late<g ref="char:EOLhyphen"/>ly in <hi>Ireland</hi> are joyned unto them, they have now m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny strings to the bow of their expectation in the Nor<g ref="char:EOLhyphen"/>thern parts, and have strongly fortified their party by the ayd and concurrence of the friends of <hi>Anti Christ,</hi> or (at least) of those who are friend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his friends and Ad<g ref="char:EOLhyphen"/>herents. Their only end and ayme is to introduce the Species and Forme of <hi>Popery</hi> into this Land; and their Superlative Designe is to abollish, and quite extirpate, (if it were possible) our true Protestant Religion.</p>
+            <p>To what a height of Insolence are they now arived at? Certainly that saying of the <hi>Lyrick</hi> Poet may be truely verified of them; One word in the Verse onely inverted;</p>
+            <q>
+               <l>—Audax omnia Perpeti;</l>
+               <l>Gens Romana ruit pervetitum Nefas.</l>
+            </q>
+            <p>Against these your Arch-enemies who are insatiate after our blood, and implacable in their rage and ma<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce against us, you have forthwith Imprest men for Service, and raise this City and Kingdom, as one man, to subdue and subjugate them, who would Tyrannize, and make Slaves of us. <hi>Eo Pede, quo caepisti pergas,</hi> As you have bravely begun, so (<hi>In Gods Name</hi>) go on: Go on and Prosper; The Lord of Hoasts, and God of Battailes go along with your Army, <hi>Teach their hands to Warre, and their fingers to Fight;</hi> And for your selves (Ye Worthies of this our <hi>Israel</hi>) the more ze<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lous you are now for God, the more gracious will he be still to you; As you maintaine his Cause, so will he maintain you in his Cause, In the prosecution whereof, an eter<g ref="char:EOLhyphen"/>nity of Fame doth attend you here on earth, an Im<g ref="char:EOLhyphen"/>mortality of Glory shall Crowne you hereafter in Heaven.</p>
+            <p>As we have thus in unfayned and hearty thankfull<g ref="char:EOLhyphen"/>nesse
+<pb n="5" facs="tcp:112924:3"/>made a Reall and true Confession of this great Councells valour and integrity, (you being the Ag<g ref="char:EOLhyphen"/>gregate <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody of the whole Kingdome<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in which re<g ref="char:EOLhyphen"/>spect it is impossible, that such a grave Senate, the great Councell of the King and Kingdome should erre, or do any injury, <hi>Vel ex odio, Vel ex Livore;</hi>) So in the next place; We the humble and poore Commons of distressed, and almost destroyed <hi>England,</hi> do as in a <hi>Map</hi> present unto you our manifold Miseries which we have a long time sustained, and sad Calamities, which for these many yeers we have groaned under, and are now grown such an intollerable, and unsupportable weight and burthen, that we are no longer able to undergoe them. The distempers and distractions of this our lan<g ref="char:EOLhyphen"/>guishing Kingdom are various, and indeed innumera<g ref="char:EOLhyphen"/>ble; yet neverthelesse, (for brevity sake) we will re<g ref="char:EOLhyphen"/>duce them to three he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds: <hi>Matter of Religion. Justice. And the Liberty and Propriety of the Subject.</hi> How this Land hath lamentably suffered of late yeers in all these, the woefull History of these times doth sufficiently testifie. To these three (with the leave and favour of this Honourable Court) we may allude the approved Opinion of learned Physitians; who hold that in the Body naturall there are three main principles, Namely; <hi>Cor, Caput, &amp; Jecur;</hi> the Heart, the Head, and the Liver; Now if any these be infected, or any wayes distemper'd, the whole body suffers: And as it is in the Body naturall, so it is in the Body politicke. The truth is, that the Heart, Head, and Liver of this Common<g ref="char:EOLhyphen"/>wealth hath been dangerously sicke; so perilously sick, that had it not beene for the sage advice, and mature Councell of this renowned Assembly (the great Phy<g ref="char:EOLhyphen"/>sitian, the Parliament) the body Politick of this State
+<pb n="6" facs="tcp:112924:4"/>had long ere this been brought to an utter dissolution. The diseases of the State grow on, more and more, like a violent Torrent, they are likely to overwhelme the whole Kingdom, what with Innovasions in point of Religion, corrupting in matters of Justice, and violati<g ref="char:EOLhyphen"/>on of the Subjects Liberty, and Propriety in his estate, this whole land strangly suffers, his Majesty of latter times hath been miserably misled and mis-informed by his Councellors in matters of State-policy; by his Clergy, in matter of Conscience; and by his Judges, in matters of Justice: And therefore that the <hi>Grandia Regni,</hi> the great affaires of the Kingdom have so unfor<g ref="char:EOLhyphen"/>tunately been miscarried, the fault is not in him, but in them.</p>
+            <p>The KING of himself is like the Sunne in the Firma<g ref="char:EOLhyphen"/>ment, which shines gloriously of it self, but when it is obnubilated, it is in regard of the interposition of some clouds about it: In like manner there is a Malignant Party, which stands between the Prince and his Peo<g ref="char:EOLhyphen"/>ple; This is not one of the least greivances which we undergoe, and for the timely redresse thereof, that say<g ref="char:EOLhyphen"/>ing of <hi>Solomon</hi> (of mortall men, of immortall memory) is worthy to be imbraced, <hi>Take away the wicked from before the</hi> KING, <hi>that his Throne may be established in Righteousnesse.</hi> The two supporters of the KINGS Thron, are Mercy, and Justice; Unlesse Delinquents and Malignants be removed from his Majesties pre<g ref="char:EOLhyphen"/>sence, his Thron will hardly be settled and established in Righteousnesse.</p>
+            <p>That the administration of Justice hath been per<g ref="char:EOLhyphen"/>verted it is too evident, for a long time the Lawes have layne still, and not been put in execution: We all know, that the world cannot afford, nor the wit of man
+<pb n="7" facs="tcp:112924:4"/>connot invent better Lawes then this Kingdome now enjoyes; All the defect is, only want of execution: And that the Subject hath been opprest of late dayes, we the poor Commons of England are to too sensible, we have been depriv'd of our Liberties, by the impri<g ref="char:EOLhyphen"/>sonment of our bodies, and detain'd of our Property by the pillaging of our goods; all which we know is contrary to the Liberty of the Subject, and quite oppo<g ref="char:EOLhyphen"/>site to the known and Fundamentall Lawes of this Land. But our greatest Greivance which goes neerest to our hearts, is the violating of our Religion, our Re<g ref="char:EOLhyphen"/>ligion, which is dearer then our Lives, Liberties and Fortunes: How is the face of it besmeared? how is the purity of it defiled.</p>
+            <p>These premisses considered in the aforesaid greivan<g ref="char:EOLhyphen"/>ces related, our submissive Supplication unto this Ho<g ref="char:EOLhyphen"/>nourable Assembly is, that you would be pleased (for under God is lyes in your power) to take these into your grave and juditious consideration, and forthwith to redresse, and to administer timely remedies to these emergent maladies both in Church and Common<g ref="char:EOLhyphen"/>wealth: You have been long, and now are upon the happy worke of Reformation. Reformation is that which you endeavour for, and we all pray for; we doubt not but that God in his good time will grant it, and make you the happy instruments in the accomplish<g ref="char:EOLhyphen"/>ment thereof.</p>
+            <p>And because the maine matter in the Reformation of this Land consists in the abolishing of Popery, the extirpating of Arminianisme, and purging of our Church from those errors &amp; Innovations, with which of latter times she hath been defiled, Therefore our humble suite unto this renowned Senate is, that you
+<pb n="8" facs="tcp:112924:5"/>would be pleased in the first place in your consultati<g ref="char:EOLhyphen"/>ons, to enter upon the Reformatton of Religion, that it may be settled and established in this Kingdome in the Primitive Purity thereof, that so the wholsome and Soul-saving Doctrins and tenets of our Mother the Church of <hi>England</hi> may be truely taught and preached, and the two Sacraments (as they ought to be) rightly administred. To the end, our last Supplication (which is not the least) is, that you would be pleased, to give Order to the Reverend SYNOD of Devines now as<g ref="char:EOLhyphen"/>sembled, (as we know your vigilancy and endeavour in this kind is not wanting) that they have a speciall care in this particular, and not be tardy in the perform<g ref="char:EOLhyphen"/>ance, but with all possible expedition to hasten so good and pious a worke: The glory whereof will be Gods, the Honour yours, the benefit and happinesse the whole Kingdomes.</p>
+            <closer>And We your daily Orrators shall (as We are perpetually obliged) pray, &amp;c.</closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
